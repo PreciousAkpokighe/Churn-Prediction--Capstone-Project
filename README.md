@@ -1,1 +1,75 @@
-# Churn-Prediction--Capstone-Project
+# Churn Prediction Platform (ChurnSense)
+
+An end-to-end, ML-powered churn prediction platform designed to help businesses proactively identify at-risk customers and take data-driven retention actions.
+
+This project demonstrates applied machine learning, data engineering fundamentals, and product thinking—bridging business impact with scalable, explainable ML solutions.
+
+---
+
+## 📌 Problem Statement
+
+Customer churn is often detected after it occurs, resulting in reactive and costly retention efforts. Many organizations lack a predictive, explainable system that identifies churn risk early and provides actionable insights for decision-makers.
+
+**ChurnSense** addresses this gap by:
+- Predicting customer churn probability
+- Explaining key drivers behind churn risk
+- Supporting targeted, data-driven retention strategies
+
+---
+
+## 🎯 Product Goals
+
+- Predict churn risk within a 30–90 day horizon
+- Enable proactive retention actions
+- Improve customer lifetime value (LTV)
+- Provide transparent, explainable ML outputs
+
+---
+
+## 👥 Target Users
+
+- Product Managers
+- Customer Success Teams
+- Marketing & Growth Teams
+- Data & Business Analysts
+
+---
+
+## 📊 Success Metrics
+
+### Business Metrics
+- Reduction in churn rate
+- Retention campaign uplift
+- Customer lifetime value (LTV)
+- Cost of retention vs acquisition
+
+### ML Metrics
+- ROC-AUC
+- Precision & Recall (churn class)
+- F1 Score
+- Calibration performance
+
+---
+
+## 🧱 Data Design
+
+### Data Sources
+- Customer demographics
+- Product usage metrics
+- Subscription and billing data
+- Customer support interactions
+
+> Public datasets such as Telco Customer Churn are used for demonstration purposes.
+
+### Feature Categories
+| Category | Examples |
+|------|--------|
+| Engagement | login frequency, session duration |
+| Usage | feature adoption, usage decay |
+| Financial | plan type, payment failures |
+| Support | ticket volume, resolution time |
+| Tenure | customer age, contract length |
+
+---
+
+## 🔄 Data Engineering Pipeline# Churn-Prediction--Capstone-Project
