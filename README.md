@@ -1,12 +1,11 @@
 # Churn Prediction Platform
 
 TABLE OF CONTENT
-- [Problem Statement](#problem-statement)
-- [Product Goals](#product-goals)
-- [Target Users](#target-users)
-- [Success Metrics](#success-metrics)
-- [Data Design](#data-design)
-
+- [Problem Statement](#problemstatement)
+- Product Goals
+- Target Users
+- Success Metrics
+- Data Design
 
 
 
@@ -18,9 +17,6 @@ This project demonstrates applied machine learning, data engineering fundamental
 ## Problem Statement
 Customer churn is often detected after it occurs, resulting in reactive and costly retention efforts. Many organizations lack a predictive, explainable system that identifies churn risk early and provides actionable insights for decision-makers.
 
-- [Datasheet](Datasheet.md)
-- [Data Model](Data%20Model.md)
-  
 **ChurnSense** addresses this gap by:
 - Predicting customer churn probability
 - Explaining key drivers behind churn risk
@@ -50,10 +46,6 @@ Customer churn is often detected after it occurs, resulting in reactive and cost
 - F1 Score
 - Calibration performance
 
-
-
-
--[Support](https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-series-switches/eos-eol-notice-c51-733348.html)
 
 ## Data Design
 ### Data Sources
