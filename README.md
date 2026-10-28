@@ -5,7 +5,7 @@ Table of content
 - [Product Goals](#product-goals)
 - [Target Users](#target-users)
 - [Success Metrics](#success-matrics)
-- [ML Metrics](#ml-matrics)
+- [ML Metrics](#ml-metrics)
 - [Data Design](#data-design)
 
 
