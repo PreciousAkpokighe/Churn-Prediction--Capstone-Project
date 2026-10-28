@@ -24,7 +24,7 @@ Customer churn is often detected after it occurs, resulting in reactive and cost
 
 
 - [Datasheet](Datasheet.md)
-- [Data Model](Data%20Model)
+- [Data Model](Data%20Model.md)
 
 
 
