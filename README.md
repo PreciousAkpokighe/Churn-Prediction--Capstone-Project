@@ -2,7 +2,7 @@
 
 TABLE OF CONTENT
 - [Problem Statement](#problem-statement)
--  Product Goals
+- [Product Goals](#product-goals)
 -  Target Users
 -  Success Metrics
 -  Data Design
