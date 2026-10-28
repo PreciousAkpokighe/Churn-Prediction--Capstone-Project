@@ -14,6 +14,9 @@ Table of content
 - [Datasheet](Datasheet.md)
 - [Data Model](Data%20Model.md)
 
+
+- [Support](https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-series-switches/eos-eol-notice-c51-733348.html)
+
 An end-to-end, ML-powered churn prediction platform designed to help businesses proactively identify at-risk customers and take data-driven retention actions.
 
 This project demonstrates applied machine learning, data engineering fundamentals, and product thinking—bridging business impact with scalable, explainable ML solutions.
