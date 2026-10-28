@@ -18,6 +18,8 @@ This project demonstrates applied machine learning, data engineering fundamental
 ## Problem Statement
 Customer churn is often detected after it occurs, resulting in reactive and costly retention efforts. Many organizations lack a predictive, explainable system that identifies churn risk early and provides actionable insights for decision-makers.
 
+- [Datasheet](Datasheet.md)
+
 **ChurnSense** addresses this gap by:
 - Predicting customer churn probability
 - Explaining key drivers behind churn risk
