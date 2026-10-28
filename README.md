@@ -41,6 +41,9 @@ Customer churn is often detected after it occurs, resulting in reactive and cost
 - Marketing & Growth Teams
 - Data & Business Analysts
 
+
+- [Support](https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-series-switches/eos-eol-notice-c51-733348.html)
+
 ## Success Metrics
 ### Business Metrics
 - Reduction in churn rate
