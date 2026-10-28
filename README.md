@@ -50,6 +50,11 @@ Customer churn is often detected after it occurs, resulting in reactive and cost
 - F1 Score
 - Calibration performance
 
+
+
+
+-[Support](https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-series-switches/eos-eol-notice-c51-733348.html)
+
 ## Data Design
 ### Data Sources
 - Customer demographics
