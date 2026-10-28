@@ -23,7 +23,7 @@ Customer churn is often detected after it occurs, resulting in reactive and cost
 - Supporting targeted, data-driven retention strategies
 
 
-- [Datasheet](Datasheet.md)
+- [Datasheet](Datasheeet.md)
 - [Data Model](Data%20Model.md)
 
 
