@@ -22,6 +22,13 @@ Customer churn is often detected after it occurs, resulting in reactive and cost
 - Explaining key drivers behind churn risk
 - Supporting targeted, data-driven retention strategies
 
+
+- [Datasheet](Datasheet.md)
+- [Data Model](Data%20Model)
+
+
+
+
 ## Product Goals
 - Predict churn risk within a 30–90 day horizon
 - Enable proactive retention actions
