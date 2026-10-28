@@ -9,6 +9,9 @@ Table of content
 - [Data Design](#data-design)
 
 
+Datasheet
+Data Model
+
 An end-to-end, ML-powered churn prediction platform designed to help businesses proactively identify at-risk customers and take data-driven retention actions.
 
 This project demonstrates applied machine learning, data engineering fundamentals, and product thinking—bridging business impact with scalable, explainable ML solutions.
