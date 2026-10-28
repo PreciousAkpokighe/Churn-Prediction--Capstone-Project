@@ -3,9 +3,12 @@
 TABLE OF CONTENT
 - [Problem Statement](#problem-statement)
 - [Product Goals](#product-goals)
--  Target Users
--  Success Metrics
--  Data Design
+- [Target Users](#target-users)
+- [Success Metrics](#success-metrics)
+- [Data Design](#data-design)
+
+
+
 
 
 An end-to-end, ML-powered churn prediction platform designed to help businesses proactively identify at-risk customers and take data-driven retention actions.
