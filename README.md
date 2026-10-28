@@ -1,7 +1,7 @@
 # Churn Prediction Platform
 
 TABLE OF CONTENT
-- [Problem Statement](#problemstatement)
+- [Problem Statement](#problem-statement)
 - Product Goals
 - Target Users
 - Success Metrics
