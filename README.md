@@ -3,9 +3,9 @@
 TABLE OF CONTENT
 - [Problem Statement](#problem-statement)
 - [Product Goals](#product-goals)
-- Target Users
-- Success Metrics
-- Data Design
+- [Target Users](#target-users)
+- [Success Metrics](#success-metrics)
+- [Data Design](#data-design)
 
 
 
