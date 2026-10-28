@@ -1,7 +1,7 @@
 # Churn Prediction Platform (ChurnSense)
 
 Table of content
-[Problem Statement](#problem-statement)
+- [Problem Statement](#problem-statement)
 Product Goals
 Target Users
 Success Metrics
