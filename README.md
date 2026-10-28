@@ -4,7 +4,7 @@ Table of content
 - [Problem Statement](#problem-statement)
 - [Product Goals](#product-goals)
 - [Target Users](#target-users)
-- [Success Metrics](#success-matrics)
+- [Success Metrics](#success-metrics)
 - [ML Metrics](#ml-metrics)
 - [Data Design](#data-design)
 
